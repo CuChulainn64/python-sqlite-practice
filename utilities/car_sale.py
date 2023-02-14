@@ -2,7 +2,7 @@
 from models import get_input    
 import pandas as pd
 class Car_sale:
-#
+##
        
     def __init__(self, stock_id=-1):
         self.StockID = stock_id
